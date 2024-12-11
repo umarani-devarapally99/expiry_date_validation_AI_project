@@ -1,15 +1,17 @@
 Expiry date validation AI project 
-goal: The objective of this Expiry Date Validation AI project is to help prevent products in the store from expiring by alerting store personnel each month about items approaching their expiry date. 
-We plan to implement monthly pop-ups to notify about soon-to-expire products, allowing us to prioritize their sale before they go out of date.
+
+Tagline:
+"Turning the ticking clock of expiry into an opportunity for smarter inventory, reduced waste, and fresher products—where AI meets sustainability and efficiency."
+
+
+Abstarct:
+In retail stores, managing product expiry dates efficiently is critical to minimizing waste and maximizing profitability. This project explores the development of an automated expiry date management system, focusing on decoding barcode and QR code data, Optical Character Recognition (OCR), and manual data entry. While traditional barcodes and QR codes lack expiry date information, leveraging OCR and a structured dataset enables tracking and forecasting. Additionally, machine learning models predict expiry timelines, and recommendation systems facilitate early clearance sales, offering a comprehensive solution to expiry date management.
 
 
 Approach:
 1.We use self-tags of products for identification.
-
 2.During cycle counts, we manually enter the product quantities and upload the expiry date, as expiry information is not embedded in the barcodes.
-
 3.We use OCR technology to decode information from product labels, allowing for accurate data entry and tracking.
-
 The manual process required due to the lack of expiry information in barcodes.
 
 
